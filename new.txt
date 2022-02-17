@@ -1,5 +1,3 @@
 saldf
-sd
-fsdf
-
-Lo que se muestra es un cambio
+Se reemplaza por un texto mas legible, para efectos del ejemplo
+Lo que se muestra es un cambio con delete
