@@ -1,3 +1,4 @@
 Este es un nuevo archivo de prueba
 
-Esto se debe agragar como un merge
+Esto es porque debe eliminar como un merge
+ 
