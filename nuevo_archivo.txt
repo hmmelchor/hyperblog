@@ -1,4 +1,8 @@
 Este es un nuevo archivo de prueba
 
+<<<<<<< HEAD
 Esto es porque debe eliminar como un merge
  
+=======
+Esto se debe agragar como una prueba de inicio
+>>>>>>> cabecera
