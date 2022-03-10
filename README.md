@@ -1,2 +1,2 @@
 # hyperblog
-Un blog increible
+Un blog increible, inciando con github
